@@ -3,7 +3,7 @@
 # VPN_SERVER_IP is the real ip of vpn server
 VPN_SERVER_IP="ip.of.your.vpn"
 
-# Name of virtual interface name, default: ppp0
+# Name of virtual interface, default: ppp0
 # Unneccessary to change
 VPN_IF_NAME="ppp0"
 
